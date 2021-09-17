@@ -3,10 +3,6 @@
 # Usage:
 
 ```
--c cid     : Folder cid
--u filename: Upload a file form local disk
--i filename: Import files form  hashlink list
--o filename: Export file hashlink from 115
--b filename: Build file hashlink from local disk
+直接使用 fake115upload.user.js中的代码到油猴即可
 ```
 
